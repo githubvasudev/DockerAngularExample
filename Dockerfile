@@ -20,4 +20,4 @@ RUN npm install -g @angular/cli@1.7.1
 
 
 
-CMD ng seve --host 0.0.0.0
+CMD ng serve --host 0.0.0.0
